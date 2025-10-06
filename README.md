@@ -15,20 +15,14 @@ Website ini merupakan hasil kolaborasi antara:
 Kolaborasi ini menunjukkan bagaimana kreativitas manusia dan kecerdasan buatan bisa bersatu untuk menghasilkan karya edukatif yang menarik dan fungsional.
 
 ## 📁 Struktur Folder
-wisata-nusantara/ 
+wisata-nusantara/
 ├── index.html
 ├── destinasi.html
 ├── galeri.html
-├── kontak.html 
-├── style.css <br>
-    └── images/ ├── burung.png 
-    ├── harimau.png 
-    ├── kucing.png 
-    ├── danautoba.jpg 
-    ├── rajaampat.jpg 
-    ├── gunungbromo.jpg 
-    ├── waerebo.jpg 
-    ├── pemandangan.png 
-    ├── makanan.png 
-    └── penginapan.png
+├── kontak.html
+├── style.css
+└── images/
+    ├── burung.png
+    ├── harimau.png
+    └── kucing.png
 
