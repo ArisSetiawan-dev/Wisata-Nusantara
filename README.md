@@ -20,7 +20,7 @@ wisata-nusantara/
 ├── destinasi.html
 ├── galeri.html
 ├── kontak.html 
-├── style.css 
+├── style.css <br>
     └── images/ ├── burung.png 
     ├── harimau.png 
     ├── kucing.png 
